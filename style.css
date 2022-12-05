@@ -1,0 +1,222 @@
+#body
+{
+  background:       #EEEEEE;
+  color:            #333333;
+  margin:           0;
+  padding-left:     0;
+  padding-right:    0;
+  padding-top:      0;
+  border:           0;
+  text-align:       center;
+  
+}
+
+#text
+{
+  background:       white;
+  color:            #666666;
+  margin-left:      5px;
+  padding-left:     5px;
+  border:           0;
+  text-align:       right;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.tdul
+{
+  background:       #333333;
+  color:            white;
+  margin:           0;
+  padding-top:      0;
+  border-left:      0;
+  border-right:		1px solid #7777EE;
+  text-align:       left;
+  font-family:		Arial;
+  font-size:        10pt;    
+  padding-bottom:   0px;
+  
+}
+
+li
+{
+  padding-top:      2px;
+  padding-bottom:   2px;
+}
+	
+hr
+{
+font-size:9px;
+color:#999999;
+}
+
+h4
+{
+font-family:Arial, Helvetica, sans-serif;
+color:#333333;
+padding:inherit;
+}
+
+h5
+{
+font-family:Arial, Helvetica, sans-serif;
+color:#333333;
+}
+
+h6
+{
+font-family:Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+}
+
+img 
+{
+  border: 0;
+}
+
+a, a:visited
+{
+  color:            #7777EE;  
+  text-decoration:  none;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:12px;
+}
+			
+a:hover
+{
+  color:            red;
+  text-decoration:  underline;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:12px;
+}
+
+ol
+{  
+  margin-top:      0pt;
+  color: #333333;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:12px;
+  text-align:justify;
+}
+
+ul
+{
+  list-style-type:none;
+  margin-top:      0pt;
+  color: #333333;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:10px;
+}
+
+p
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+padding:inherit;
+color:#333333;
+}
+
+.header
+{
+  color:#FFFFFF;    
+  font-size:        9px;
+  font-weight:      bold;
+  font-family:Arial, Helvetica, sans-serif;
+ 
+}
+
+#header 
+{
+  color:#FFFFFF;    
+  font-size:        9px;
+  font-weight:      bold;
+  font-family:Arial, Helvetica, sans-serif;
+ 
+}
+
+#header a, #header a:hover{
+  color:               black;
+  background-color: #7777EE;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+#main 
+{
+  min-width:350px;
+  text-align:        right;
+  padding-top:       10pt;
+  padding-bottom:    5pt;
+  padding-left:      20pt;
+  padding-right:     20pt;
+  background-color:  white;
+  color:#999999;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.vspace
+{
+height:         5px;
+}
+
+#footer
+{
+  font-size:        10px;  
+  padding:          10pt;
+  text-align:       center;
+}
+
+
+#menu 
+{
+top:auto;
+left: 0;
+}
+#menu {
+width: 10em;
+}
+#menu dt {
+cursor: pointer;
+margin: 2px 0;
+height: 20px;
+line-height: 20px;
+text-align: center;
+font-weight: bold;
+border:1px solid gray;
+background-color: #999999;
+}
+#menu dt2 {
+cursor: pointer;
+margin: 2px 0;
+height: 20px;
+line-height: 20px;
+text-align: center;
+font-weight: bold;
+border: 1px solid gray;
+background-color: #eee;
+}
+#menu dd {
+border: 1px solid gray;
+background: #ccc;
+}
+#menu li {
+text-align: center;
+background: #fff;
+}
+#menu here {
+text-align: center;
+background: #eee;
+}
+#menu li a, #menu dt a {
+color: #000;
+text-decoration: none;
+display: block;
+border: 0 none;
+}
+#menu li a:hover, #menu dt a:hover {
+background: #eee;
+}
+
+#global {
+     margin-left: auto;
+     margin-right: auto;     
+     }
